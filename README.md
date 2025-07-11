@@ -3,7 +3,7 @@
 A modern, responsive **coffee shop website** built using **HTML**, **CSS**, and **JavaScript**.  
 Designed for showcasing coffee products, promotions, and blog sections — perfect for small businesses or coffee brands.
 
-Live Demo 👉 [View on Vercel](https://coffee-online-store.vercel.app/)
+Live Demo 👉 [View on Vercel](https://coffee-online-store.vercel.app/) https://coffee-online-store.vercel.app
 
 ---
 
